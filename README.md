@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/crisgarner/crisgarner/master/hero.png)
 
-# Hi, I'm Cristian Espinoza ☕ 🇭🇳
+# Hi, I'm Cristian Espinoza
 
 Blockchain Developer @CryptexGlobal 👨‍💻, Devcon V Scholar & Local Grant Organizer for Honduras @Ethereum, Founder @Affogatonetwork. Coffee Lover
 
