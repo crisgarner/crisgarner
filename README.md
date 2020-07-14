@@ -7,7 +7,7 @@ Blockchain Developer @CryptexGlobal 👨‍💻, Devcon V Scholar & Local Grant 
 ## Tech Stack
 * 💻 Solidity | Go Lang | TypeScript | Javascript
 
-[![Crisgarner's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisgarner)](https://github.com/crisgarner)
+[![Crisgarner's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisgarner&show_icons=true)](https://github.com/crisgarner)
 
 <h2>Follow  Me</h2>
 <p align="left">
