@@ -2,7 +2,7 @@
 
 # Hi, I'm Cristian Espinoza
 
-Blockchain Developer @CryptexGlobal 👨‍💻, Devcon V Scholar & Local Grant Organizer for Honduras @Ethereum, Founder @Affogatonetwork. Coffee Lover
+Blockchain Developer @CryptexFinance 👨‍💻, Devcon V Scholar & Local Grant Organizer for Honduras @Ethereum, Founder @Affogatonetwork. Coffee Lover
 
 ## Tech Stack
 * 💻 Solidity | Go Lang | TypeScript | Javascript
