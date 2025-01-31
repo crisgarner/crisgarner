@@ -12,6 +12,5 @@ Engineer @ Privacy & Scaling Explorations  👨‍💻, Devcon V Scholar, Coffee
 <h2>Follow  Me</h2>
 <p align="left">
 	<a href="https://github.com/crisgarner"><img src="https://img.shields.io/github/followers/crisgarner.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/crisgarner"><img src="https://img.shields.io/twitter/follow/crisgarner?label=Twitter&style=social" alt="Twitter"></a>
-	<a><img src="https://visitor-badge.glitch.me/badge?page_id=crisgarner.visitor-badge" /></a>
+	<a href="https://x.com/crisgarner"><img src="https://img.shields.io/x/follow/crisgarner?label=X&style=social" alt="X"></a>
 </p>
